@@ -120,4 +120,4 @@ set BLANK_PASSWORDS true
 ![image](https://github.com/AmirthaRoopaS/Metasploit-for-reconnaissance/assets/143496311/27925562-58ac-4784-8793-53ee611d02d7)
 
 ## RESULT:
-The Metasploit framework for reconnaissance is  examined successfully
+The Metasploit framework for reconnaissance is  examined successfully.
